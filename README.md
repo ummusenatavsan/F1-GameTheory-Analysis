@@ -17,8 +17,6 @@ We simulate the "Prisoner's Dilemma" faced by Lewis Hamilton (Mercedes) and Max 
 ## 📊 Results & Analysis
 The heatmap below visualizes the **Payoff Matrix**. It shows how the probability of a Safety Car shifts the Nash Equilibrium, making the "PIT" strategy mathematically viable for the follower (Verstappen) despite the time loss.
 
-*(Buraya GitHub'a yükledikten sonra analiz görselini ekleyebilirsin)*
-
 ## 🚀 How to Run
 1. Clone the repository
 2. Install dependencies:
